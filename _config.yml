@@ -1,17 +1,16 @@
 # Site settings
-title: 夜明 Blog
-SEOTitle: 夜明的博客 | 夜明 Blog
+title: YeMing Blog
+SEOTitle: 夜明的博客 | YeMing Blog
 header-img: img/post-bg-desk.jpg
-email: 1204944581@qq.com
 description: "Every failure is leading towards success."
-keyword: "夜明, 夜明 Blog, 夜明的博客, yeming, 夜明, iOS, Apple, iPhone"
+keyword: "YeMing, YeMing Blog, 夜明的博客, yeming, 夜明, iOS, Apple, iPhone"
 url: "http://nightxu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/nightxu/nightxu.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "一句话也不说!"
+sidebar-about-description: "讲文明,懂礼貌,</br>虚心学,让他(她)教。"
 sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
