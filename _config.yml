@@ -10,7 +10,7 @@ github_repo: "https://github.com/yemingxu/yemingxu.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "孔子曰: 鸡汤十个好东西。"
+sidebar-about-description: "孔子曰: 鸡汤是个好东西。"
 sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
