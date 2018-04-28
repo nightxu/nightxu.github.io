@@ -64,7 +64,7 @@ gitalk:
   clientID: e6def3c418119da08951                            #生成的clientID
   clientSecret: f9f6a4c65c8ec28617ebf5da06a912b54fcd5e74    #生成的clientSecret
   repo: nightxu.github.io    #仓库名称
-  owner: nightxu    #github用户名
+  owner: Derse    #github用户名
   admin: nightxu
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
