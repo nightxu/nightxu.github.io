@@ -4,9 +4,9 @@ SEOTitle: 夜明的博客 | YeMing Blog
 header-img: img/post-bg-desk.jpg
 description: "Every failure is leading towards success."
 keyword: "YeMing, YeMing Blog, 夜明的博客, yeming, 夜明, iOS, Apple, iPhone"
-url: "http://nightxu.github.io"          # your host, for absolute URL
+url: "http://yemingxu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/nightxu/nightxu.github.io.git" # you code repository
+github_repo: "https://github.com/yemingxu/yemingxu.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -19,7 +19,7 @@ sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in b
 RSS: false
 # weibo_username:     qiubaiying
 #zhihu_username:     qiubaiying
-github_username:    nightxu
+github_username:    yemingxu
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -63,9 +63,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: e6def3c418119da08951                            #生成的clientID
   clientSecret: f9f6a4c65c8ec28617ebf5da06a912b54fcd5e74    #生成的clientSecret
-  repo: nightxu.github.io    #仓库名称
-  owner: Derse    #github用户名
-  admin: nightxu
+  repo: yemingxu.github.io    #仓库名称
+  owner: yemingxu    #github用户名
+  admin: yemingxu
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
